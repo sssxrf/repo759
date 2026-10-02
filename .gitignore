@@ -2,3 +2,18 @@
 /HW01/task6.exe
 /HW01/*.out
 /HW01/*.err
+/HW02/task1
+/HW02/task2
+/HW02/task3
+/HW02/*.exe
+/HW02/*.out
+/HW02/*.err
+/HW02/task1_times.txt
+/HW02/docs/
+/HW02/*.sh
+/HW02/*.py
+/HW02/*.pdf
+/HW02/*.txt
+
+# Local assistant notes
+CLAUDE.md
