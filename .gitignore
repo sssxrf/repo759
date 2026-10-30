@@ -25,6 +25,18 @@
 /HW03/*.py
 /HW03/*.pdf
 /HW03/*.txt
+/HW04/task2
+/HW04/task3
+/HW04/*.exe
+/HW04/*.out
+/HW04/*.err
+/HW04/docs/
+/HW04/*.sh
+/HW04/*.py
+/HW04/*.pdf
+/HW04/*.png
+/HW04/*.txt
+/HW04/*.csv
 
 # Local assistant notes
 CLAUDE.md
