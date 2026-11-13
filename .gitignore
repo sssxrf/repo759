@@ -37,6 +37,17 @@
 /HW04/*.png
 /HW04/*.txt
 /HW04/*.csv
+/HW05/task1
+/HW05/task2
+/HW05/task3
+/HW05/*.exe
+/HW05/*.out
+/HW05/*.err
+/HW05/docs/
+/HW05/*.sh
+/HW05/*.py
+/HW05/*.pdf
+/HW05/*.txt
 
 # Local assistant notes
 CLAUDE.md
